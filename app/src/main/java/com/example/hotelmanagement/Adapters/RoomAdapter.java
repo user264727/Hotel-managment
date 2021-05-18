@@ -49,7 +49,7 @@ public class RoomAdapter extends FirebaseRecyclerAdapter<
             public void onClick(View v) {
                 DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("Rooms").child(model.getId());
                 reference.removeValue();
-                Toast.makeText(mContext,"Successfully data added",Toast.LENGTH_SHORT).show();
+                Toast.makeText(mContext,"Successfully data removed",Toast.LENGTH_SHORT).show();
             }
         });
         holder.update.setOnClickListener(new View.OnClickListener() {

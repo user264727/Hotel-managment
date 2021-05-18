@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Rivinka green side</string>
+    <string name="action_sign_in">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="customer_card">Customers</string>
+    <string name="room_card">Rooms</string>
+    <string name="booking_card">Hotel Bookings</string>
+    <string name="event_card">Events</string>
+    <string name="food_card">Foods</string>
+    <string name="food_name_txt">Food Name</string>
+    <string name="price_txt">Price</string>
+    <string name="note_txt">Note</string>
+    <string name="add_food_txt">Add Food</string>
+    <string name="update_food_txt">Update Food</string>
+    <string name="add_rooms_str">Add Rooms</string>
+    <string name="update_rooms_str">Update Rooms</string>
+    <string name="room_no_str">Room Number</string>
+    <string name="floor_str">Floor</string>
+    <string name="price_str">Price</string>
+    <string name="note_str">Note</string>
+    <string name="type_str">Room Type</string>
+    <string name="customer_txt">Customer</string>
+    <string name="room_txt">Room</string>
+    <string name="date_txt">Date</string>
+    <string name="time_txt">Time</string>
+    <string name="quantity_txt">Qnt</string>
+    <string name="add_booking_txt">Add Booking</string>
+    <string name="update_booking_txt">Update Booking</string>
+    <string name="add_cus">Add Customer</string>
+    <string name="cus_image">Customer Image</string>
+    <string name="cus_name">Name</string>
+    <string name="cus_nic">NIC</string>
+    <string name="cus_address">Address</string>
+    <string name="cus_pax">Pax Count</string>
+    <string name="cus_contact">Mobile Number</string>
+    <string name="update_customer">Customer Update</string>
+    <string name="update_customer_image">Update Image</string>
+    <string name="add_event_str">Add Event</string>
+    <string name="update_event_str">Update Event</string>
+    <string name="delete_event_str">Delete Event</string>
+    <string name="event_name_str">Event Name</string>
+    <string name="event_location_str">Location</string>
+    <string name="event_date_str">Date</string>
+    <string name="event_start_time_str">Start Time</string>
+    <string name="event_end_time_str">End Time</string>
+    <string name="event_note_str">Note</string>
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138536150364",
+    "project_id": "rivinka-green-side",
+    "storage_bucket": "rivinka-green-side.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138536150364:android:72eea8149d7ca6fe118d99",
+        "android_client_info": {
+          "package_name": "com.example.hotelmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138536150364-bpek26150v8271t1lf6cdq2eah69eqpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCElY0YqeT-3b4scC2OiZxgDA-yGyiKr94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138536150364-bpek26150v8271t1lf6cdq2eah69eqpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

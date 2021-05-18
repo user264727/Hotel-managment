@@ -83,7 +83,7 @@ public class AddRoomActivity extends AppCompatActivity{
                     public void onSuccess(Void aVoid) {
                         pDialog.dismiss();
                         startActivity(new Intent(AddRoomActivity.this,RoomsViewActivity.class));
-                        Toast.makeText(AddRoomActivity.this,"data added",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(AddRoomActivity.this,"Data added",Toast.LENGTH_SHORT).show();
                         finish();
                     }
                 })
